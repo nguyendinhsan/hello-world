@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning, DAY LA TEP MAU THU NGHIEM</h1>
+    <h1>CAP NHAT CODE MOI NHAT 27.05.2025</h1>
     <p>Xin vui long dien vao mau tao tai khoan duoi day. Minh moi thay doi tu dong</p>
     <hr>
      
