@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>da sua lai moi nhat</h1>
+    <h1>CHINH SUA TU DONG VOI ANSIBLE</h1>
     <p>Xin vui long dien vao mau tao tai khoan duoi day. Minh moi thay doi tu dong</p>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b>Moi Ban Nhap Ten Vao Day</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
