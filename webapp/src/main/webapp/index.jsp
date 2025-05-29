@@ -4,7 +4,7 @@
     <p>Xin vui long dien vao mau tao tai khoan duoi day. Minh moi thay doi tu dong</p>
     <hr>
      
-    <label for="Name"><b>Moi Ban Nhap Ten Vao Day</b></label>
+    <label for="Name"><b>Thu Nghiem Lai</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
