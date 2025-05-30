@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>DA SUA DOI K8S VOI ANSIBLE</h1>
+    <h1>SUA DOI NGAY 30/05/2025</h1>
     <p>Xin vui long dien vao mau tao tai khoan duoi day. Minh moi thay doi tu dong</p>
     <hr>
      
